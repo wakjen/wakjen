@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @zanefauzan
 - 👀 I’m interested in learning front-end languages
 - 🌱 I’m currently learning .net and Angular
-- 📫 How to reach me zanepojan94@gmail.com
+- 📫 How to reach me zainfauzann@gmail.com
+
 
 <!---
 wakjen/wakjen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
